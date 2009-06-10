@@ -7,3 +7,4 @@ did this on exp. branch
 def foo(a):
    do a
    do b
+   do c
