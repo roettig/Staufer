@@ -3,3 +3,8 @@ Welcome to the Staufer strategy game project.
 github.com rocks !
 
 did this on exp. branch
+
+def foo(a):
+   do a
+   do b
+   do c
